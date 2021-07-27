@@ -14,7 +14,6 @@ public class Teleporter : MonoBehaviour
             other.transform.position = teleport.position;
             cam1.SetActive(false);
             cam2.SetActive(true);
-            other.transform.rotation = teleport.transform.rotation;
 
         }
     }
