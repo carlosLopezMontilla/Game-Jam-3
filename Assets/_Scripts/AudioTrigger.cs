@@ -2,11 +2,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SafeZone : MonoBehaviour
+public class AudioTrigger : MonoBehaviour
 {
     public GameManager gameManager;
+
     private void OnTriggerStay(Collider other)
     {
-        gameManager.currentValue -= Time.deltaTime* 2 ;
+        if(other.gameObject.CompareTag("Player"))
+        {
+            gameManager.currentValue += Time.deltaTime * 2;
+        }
     }
 }

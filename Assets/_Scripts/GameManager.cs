@@ -17,8 +17,7 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        currentValue += Time.deltaTime;
-
+        currentValue += Time.deltaTime ;
         slider.value = currentValue;
     }
 }
