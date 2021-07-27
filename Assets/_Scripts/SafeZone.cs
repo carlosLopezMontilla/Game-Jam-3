@@ -7,6 +7,6 @@ public class SafeZone : MonoBehaviour
     public GameManager gameManager;
     private void OnTriggerStay(Collider other)
     {
-        gameManager.currentValue -= Time.deltaTime *2;
+        gameManager.currentValue -= Time.deltaTime * 2;
     }
 }
