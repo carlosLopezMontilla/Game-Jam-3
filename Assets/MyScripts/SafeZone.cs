@@ -19,6 +19,7 @@ public class SafeZone : MonoBehaviour
     {
         inSafeZone = false;
         audioListener.enabled = false;
+        Destroy(this.gameObject, 2f);
     }
     private void Update()
     {
