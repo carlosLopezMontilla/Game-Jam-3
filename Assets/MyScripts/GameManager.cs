@@ -18,6 +18,7 @@ public class GameManager : MonoBehaviour
     void Update()
     {
         currentValue += Time.deltaTime;
+        slider.maxValue = maxValue;
         slider.value = currentValue;
         if(currentValue >= maxValue)
         {

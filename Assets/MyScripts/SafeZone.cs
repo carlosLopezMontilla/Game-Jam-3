@@ -18,13 +18,13 @@ public class SafeZone : MonoBehaviour
     private void OnTriggerExit(Collider other)
     {
         inSafeZone = false;
-        audioListener.enabled = true;
+        audioListener.enabled = false;
     }
     private void Update()
     {
         if(!inSafeZone)
         {
-
+            audioListener.enabled = true;
         }
     }
 }
