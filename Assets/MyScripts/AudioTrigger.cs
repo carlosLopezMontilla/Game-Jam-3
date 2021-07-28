@@ -8,9 +8,7 @@ public class AudioTrigger : MonoBehaviour
 
     private void OnTriggerStay(Collider other)
     {
-        if(other.gameObject.CompareTag("Player"))
-        {
-            gameManager.currentValue += Time.deltaTime * 2;
-        }
+
+            gameManager.currentValue += Time.deltaTime * 8;
     }
 }
