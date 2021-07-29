@@ -11,7 +11,7 @@ public class SafeZone : MonoBehaviour
 
     private void OnTriggerStay(Collider other)
     {
-        gameManager.currentValue -= Time.deltaTime * 2;
+        gameManager.currentValue -= Time.deltaTime * 8;
         inSafeZone = true;
         //audioListener.enabled = false;
         audioController.test[0].volume = 0;
@@ -37,6 +37,32 @@ public class SafeZone : MonoBehaviour
         audioController.test[20].volume = 0;
         audioController.test[21].volume = 0;
         audioController.test[22].volume = 0;
+        audioController.test[23].volume = 0;
+        audioController.test[24].volume = 0;
+        audioController.test[25].volume = 0;
+        audioController.test[26].volume = 0;
+        audioController.test[27].volume = 0;
+        audioController.test[28].volume = 0;
+        audioController.test[29].volume = 0;
+        audioController.test[30].volume = 0;
+        audioController.test[31].volume = 0;
+        audioController.test[32].volume = 0;
+        audioController.test[33].volume = 0;
+        audioController.test[34].volume = 0;
+        audioController.test[35].volume = 0;
+        audioController.test[36].volume = 0;
+        audioController.test[37].volume = 0;
+        audioController.test[38].volume = 0;
+        audioController.test[39].volume = 0;
+        audioController.test[40].volume = 0;
+        audioController.test[41].volume = 0;
+        audioController.test[42].volume = 0;
+        audioController.test[43].volume = 0;
+        audioController.test[44].volume = 0;
+        audioController.test[45].volume = 0;
+        audioController.test[46].volume = 0;
+        audioController.test[47].volume = 0;
+        audioController.test[48].volume = 0;
     }
 
     private void OnTriggerExit(Collider other)
@@ -67,5 +93,31 @@ public class SafeZone : MonoBehaviour
         audioController.test[20].volume = 1;
         audioController.test[21].volume = 1;
         audioController.test[22].volume = 1;
+        audioController.test[23].volume = 1;
+        audioController.test[24].volume = 1;
+        audioController.test[25].volume = 1;
+        audioController.test[26].volume = 1;
+        audioController.test[27].volume = 1;
+        audioController.test[28].volume = 1;
+        audioController.test[29].volume = 1;
+        audioController.test[30].volume = 1;
+        audioController.test[31].volume = 1;
+        audioController.test[32].volume = 1;
+        audioController.test[33].volume = 1;
+        audioController.test[34].volume = 1;
+        audioController.test[35].volume = 1;
+        audioController.test[36].volume = 1;
+        audioController.test[37].volume = 1;
+        audioController.test[38].volume = 1;
+        audioController.test[39].volume = 1;
+        audioController.test[40].volume = 1;
+        audioController.test[41].volume = 1;
+        audioController.test[42].volume = 1;
+        audioController.test[43].volume = 1;
+        audioController.test[44].volume = 1;
+        audioController.test[45].volume = 1;
+        audioController.test[46].volume = 1;
+        audioController.test[47].volume = 1;
+        audioController.test[48].volume = 1;
     }
 }
