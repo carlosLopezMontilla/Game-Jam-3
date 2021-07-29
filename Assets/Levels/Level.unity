@@ -225,6 +225,10 @@ PrefabInstance:
       propertyPath: audioListener
       value: 
       objectReference: {fileID: 2054091908}
+    - target: {fileID: 7222078101272520043, guid: 2b78625c7850118429ba4da6008a151c, type: 3}
+      propertyPath: audioController
+      value: 
+      objectReference: {fileID: 519271087}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2b78625c7850118429ba4da6008a151c, type: 3}
 --- !u!1001 &39741724
@@ -494,7 +498,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2083598874836792962, guid: 2b78625c7850118429ba4da6008a151c, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6868124695975411259, guid: 2b78625c7850118429ba4da6008a151c, type: 3}
       propertyPath: m_RootOrder
@@ -548,6 +552,10 @@ PrefabInstance:
       propertyPath: audioListener
       value: 
       objectReference: {fileID: 2054091908}
+    - target: {fileID: 7222078101272520043, guid: 2b78625c7850118429ba4da6008a151c, type: 3}
+      propertyPath: audioController
+      value: 
+      objectReference: {fileID: 519271087}
     - target: {fileID: 7222078101272520052, guid: 2b78625c7850118429ba4da6008a151c, type: 3}
       propertyPath: m_Size.x
       value: 0.90000015
