@@ -1,0 +1,348 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.7f1 (dd97f2c94397) revision 14522354'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1110; Version 2009; 64bit' Language: 'es' Physical Memory: 16257 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Proyectos Unity\2020.3.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Proyectos/GhitVersión/Game-Jam-3
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64772
+Successfully changed project path to: D:/Proyectos/GhitVersión/Game-Jam-3
+D:/Proyectos/GhitVersión/Game-Jam-3
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 49.91 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.7f1 (dd97f2c94397)
+[Subsystems] Discovering subsystems at path D:/Proyectos Unity/2020.3.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Proyectos/GhitVersión/Game-Jam-3/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   
+    VRAM:     4019 MB
+    Driver:   30.0.14.7141
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'D:/Proyectos Unity/2020.3.7f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Proyectos Unity/2020.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Proyectos Unity/2020.3.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56532
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Proyectos Unity/2020.3.7f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: D:/Proyectos Unity/2020.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001349 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 52.34 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.992 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002304 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 53.07 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.986 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2793 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.5 MB.
+System memory in use after: 134.7 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3240.
+Total: 2.282500 ms (FindLiveObjects: 0.419800 ms CreateObjectMapping: 0.156100 ms MarkObjects: 1.634800 ms  DeleteObjects: 0.070600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/UI/Buttons/Button.png
+  artifactKey: Guid(70d668fb64203aa4ea2fbdaebb68cb8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Buttons/Button.png using Guid(70d668fb64203aa4ea2fbdaebb68cb8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a8d991341647c7bc1b3c18548eafb3d') in 0.075218 seconds
+  Import took 0.080568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.283980 seconds.
+  path: Assets/UI/Buttons/Button.png
+  artifactKey: Guid(70d668fb64203aa4ea2fbdaebb68cb8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Buttons/Button.png using Guid(70d668fb64203aa4ea2fbdaebb68cb8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28f89a327bfef12ab7d5a9c5003c27d4') in 0.100797 seconds
+  Import took 0.105371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.705251 seconds.
+  path: Assets/UI/Buttons/Button.png
+  artifactKey: Guid(70d668fb64203aa4ea2fbdaebb68cb8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Buttons/Button.png using Guid(70d668fb64203aa4ea2fbdaebb68cb8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13ea65a3e092fb7f968110d64077cb18') in 0.005515 seconds
+  Import took 0.010393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.879970 seconds.
+  path: Assets/UI/Buttons/Button.png
+  artifactKey: Guid(70d668fb64203aa4ea2fbdaebb68cb8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Buttons/Button.png using Guid(70d668fb64203aa4ea2fbdaebb68cb8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0439bbf25fe068d35db35ac4f7d2fa28') in 0.007784 seconds
+  Import took 0.012451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 128.685987 seconds.
+  path: Assets/UI
+  artifactKey: Guid(9ac4ece1b0b0bf4459560a039e5dff6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI using Guid(9ac4ece1b0b0bf4459560a039e5dff6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eeef23bdae21be4dc525e72212de2c6') in 0.002420 seconds
+  Import took 0.007053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.444118 seconds.
+  path: Assets/UI/Typo
+  artifactKey: Guid(1369163bdb30e854cabec9b6d8d74187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Typo using Guid(1369163bdb30e854cabec9b6d8d74187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2117719572cc2491435ad61a76d37f45') in 0.001978 seconds
+  Import took 0.008293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.357286 seconds.
+  path: Assets/UI/Typo/pixelart.ttf
+  artifactKey: Guid(20c5e09dfcb30034ea4adee81660557d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Typo/pixelart.ttf using Guid(20c5e09dfcb30034ea4adee81660557d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b1f4a7832f8e00cb71005dfb80ad0cd') in 0.225489 seconds
+  Import took 0.229874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.118183 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a176e0e6d67cfcf08a062b81c4318192') in 0.010749 seconds
+  Import took 0.015931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029197 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a176e0e6d67cfcf08a062b81c4318192') in 0.010616 seconds
+  Import took 0.018470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.051370 seconds.
+  path: Assets/UI/Typo/pixelart SDF.asset
+  artifactKey: Guid(1bed912eb4b1b4545b8676e628b32225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Typo/pixelart SDF.asset using Guid(1bed912eb4b1b4545b8676e628b32225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ebe5a7d326abf9a0fadf3f9602e5e5f') in 0.046238 seconds
+  Import took 0.052469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002214 seconds.
+  path: Assets/UI/Typo/pixelart SDF.asset
+  artifactKey: Guid(1bed912eb4b1b4545b8676e628b32225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Typo/pixelart SDF.asset using Guid(1bed912eb4b1b4545b8676e628b32225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ebe5a7d326abf9a0fadf3f9602e5e5f') in 0.020756 seconds
+  Import took 0.025784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 85.071297 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbe552cf8236da9d2991ad7375bad193') in 0.090658 seconds
+  Import took 0.096113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cef5b53c1c5f15336ce317f0743f8037') in 0.072856 seconds
+  Import took 0.078479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3db65a869353e06ed9aa52deaf3eaa5') in 0.023445 seconds
+  Import took 0.028865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbe552cf8236da9d2991ad7375bad193') in 0.028531 seconds
+  Import took 0.032867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48049a801c6d2928e17db8aea7cc89ef') in 0.039441 seconds
+  Import took 0.044647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010576 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48049a801c6d2928e17db8aea7cc89ef') in 0.033849 seconds
+  Import took 0.039420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.721091 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af3fccfd39904748fc40ea57ed145b96') in 0.015662 seconds
+  Import took 0.021775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.483203 seconds.
+  path: Assets/Render/Render.asset
+  artifactKey: Guid(42f2ca1864f7dde4b92077ba5dfdc3df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Render/Render.asset using Guid(42f2ca1864f7dde4b92077ba5dfdc3df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8c85f57339b79825d8cd2eb4075b627') in 0.002391 seconds
+  Import took 0.007856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Render/Render_Renderer.asset
+  artifactKey: Guid(8f2cf80c6071ede41b519b38ac61601e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Render/Render_Renderer.asset using Guid(8f2cf80c6071ede41b519b38ac61601e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01bb5fe6a821441dbe970fa0c5bc685f') in 0.002276 seconds
+  Import took 0.006754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.029553 seconds.
+  path: Assets/UI/Typo/pixelart SDF.asset
+  artifactKey: Guid(1bed912eb4b1b4545b8676e628b32225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Typo/pixelart SDF.asset using Guid(1bed912eb4b1b4545b8676e628b32225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9f16f69e57bbc85ecd6d4e2588d47a0') in 0.016296 seconds
+  Import took 0.021253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.091820 seconds.
+  path: Assets/prefabs/BlockMan.prefab
+  artifactKey: Guid(5e7fe23d0c787f84196a808e3d62a474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/BlockMan.prefab using Guid(5e7fe23d0c787f84196a808e3d62a474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87bd6d34d8eb1e4968d2f73cf0a33353') in 0.591041 seconds
+  Import took 0.595669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.268069 seconds.
+  path: Assets/MyPrefabs/UI_Back_Button.prefab
+  artifactKey: Guid(a7958a2a7dc1dd749a8abf0469624b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/UI_Back_Button.prefab using Guid(a7958a2a7dc1dd749a8abf0469624b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '432840130b05a1a5188dbabb377a78c6') in 0.063229 seconds
+  Import took 0.067325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.497550 seconds.
+  path: Assets/Enviroment/b1219ce3a70d647ffebc40eb5d1f7d6c.jpg
+  artifactKey: Guid(612d901ad925c1b4abb8cc34368b5cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/b1219ce3a70d647ffebc40eb5d1f7d6c.jpg using Guid(612d901ad925c1b4abb8cc34368b5cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aaa1e0323c6de52227f7562788389d5') in 0.024012 seconds
+  Import took 0.028460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 277.273594 seconds.
+  path: Assets/Levels/UI_Menu.unity
+  artifactKey: Guid(2389935ddf85c0f44a5a270262cff0a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/UI_Menu.unity using Guid(2389935ddf85c0f44a5a270262cff0a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe4bb349b72ea85a4954d63bdd3eddac') in 0.002137 seconds
+  Import took 0.009167 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002470 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.925 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2651 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.4 MB.
+System memory in use after: 143.6 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3336.
+Total: 2.447900 ms (FindLiveObjects: 0.321900 ms CreateObjectMapping: 0.137500 ms MarkObjects: 1.963800 ms  DeleteObjects: 0.022900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002272 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.933 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2649 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.4 MB.
+System memory in use after: 143.7 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3339.
+Total: 4.424400 ms (FindLiveObjects: 0.924100 ms CreateObjectMapping: 0.272300 ms MarkObjects: 3.193100 ms  DeleteObjects: 0.032600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 209.818339 seconds.
+  path: Assets/Levels/UI_Menu.unity
+  artifactKey: Guid(2389935ddf85c0f44a5a270262cff0a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/UI_Menu.unity using Guid(2389935ddf85c0f44a5a270262cff0a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15d9df3c883d4bfc7dcd5801ae2e16dd') in 0.031517 seconds
+  Import took 0.035846 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003277 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.896 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2649 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.5 MB.
+System memory in use after: 143.7 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3342.
+Total: 2.243400 ms (FindLiveObjects: 0.254700 ms CreateObjectMapping: 0.115400 ms MarkObjects: 1.853800 ms  DeleteObjects: 0.018800 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
